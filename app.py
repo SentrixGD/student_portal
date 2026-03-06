@@ -7,5 +7,8 @@ def main():
 def login(username):
     print(f"User {username} has logged in")
 
+def logout(username):
+    print(f"User {username} logged out.")
+
 if __name__ == "__main__":
     main()
