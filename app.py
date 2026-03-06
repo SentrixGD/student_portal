@@ -5,7 +5,7 @@ def main():
     print("Student Portal System active")
 
 def login(username):
-    print(f"User {username} has logged in. yohoo!")
+    print(f"User {username} has logged in")
 
 if __name__ == "__main__":
     main()
